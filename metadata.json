@@ -1,0 +1,6 @@
+{
+  "name": "LatScan Diagnostic Dashboard",
+  "description": "Dark-mode network diagnostic JSON report viewer, baseline diff comparator, and local scan bridge for mini-latscan.py.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
